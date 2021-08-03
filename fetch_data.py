@@ -3,7 +3,7 @@ import requests
 import json
 import pandas as pd
 
-
+#chnage Url to get details
 new_url = 'https://www.nseindia.com/api/marketStatus'
 
 headers = {'User-Agent': 'Mozilla/5.0'}
