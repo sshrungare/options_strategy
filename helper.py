@@ -4,7 +4,7 @@ import pandas as pd
 f = open('data.json')
 data = json.load(f)
 
-nifty = 34584.35
+nifty = 34584.35 #get nifty
 
 df = pd.DataFrame(data)
 
